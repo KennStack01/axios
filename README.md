@@ -1,4 +1,4 @@
-# axios
+# axios 🚀
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
 [![CDNJS](https://img.shields.io/cdnjs/v/axios.svg?style=flat-square)](https://cdnjs.com/libraries/axios)
@@ -10,9 +10,9 @@
 [![gitter chat](https://img.shields.io/gitter/room/mzabriskie/axios.svg?style=flat-square)](https://gitter.im/mzabriskie/axios)
 [![code helpers](https://www.codetriage.com/axios/axios/badges/users.svg)](https://www.codetriage.com/axios/axios)
 
-Promise based HTTP client for the browser and node.js
+Promise based HTTP client for the browser and node.js 🎉🎉🎉
 
-> New axios docs website: [click here](https://axios-http.com/)
+> New axios docs website 👉: [click here](https://axios-http.com/)
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ Promise based HTTP client for the browser and node.js
   - [Credits](#credits)
   - [License](#license)
 
-## Features
+## Features 💡
 
 - Make [XMLHttpRequests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) from the browser
 - Make [http](http://nodejs.org/api/http.html) requests from node.js
@@ -57,7 +57,7 @@ Promise based HTTP client for the browser and node.js
 - Automatic transforms for JSON data
 - Client side support for protecting against [XSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)
 
-## Browser Support
+## Browser Support 🏡
 
 ![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![IE](https://raw.github.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) |
 --- | --- | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 
 [![Browser Matrix](https://saucelabs.com/open_sauce/build_matrix/axios.svg)](https://saucelabs.com/u/axios)
 
-## Installing
+## Installing ✨
 
 Using npm:
 
@@ -97,7 +97,7 @@ Using unpkg CDN:
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 ```
 
-## Example
+## Example 😊
 
 ### note: CommonJS usage
 In order to gain the TypeScript typings (for intellisense / autocomplete) while using CommonJS imports with `require()` use the following approach:
